@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                binary-enum
-version:             0.1.0.0
+version:             0.1.2.0
 synopsis:            Simple wrappers around enum types
 description:         allowing to serise to/from binary both as values and bitmasks
 homepage:            https://github.com/tolysz/binary-enum
